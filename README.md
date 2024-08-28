@@ -1,7 +1,7 @@
 # ADLS2-MachineLearning
 
 This is the GitHub Page for the ADLS 2 Project on Machine Learning. 
-Two students will work on this seperately. They are expected to take different approaches and find alternative approaches either for the same question or they may take a totally different approach. As long as they stick the input data short tandem repeats, their work will be highly appreciated.
+Two students, Pia and Luigi will work on this seperately. They are expected to take different approaches and find alternative approaches either for the same question or they may take a totally different approach. As long as they stick the input data short tandem repeats, their work will be highly appreciated.
 
 ## Project Summary:
 Applying Machine Learning on repetitive DNA sequences
